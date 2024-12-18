@@ -27,8 +27,8 @@
   "dependencies": {
     "grunt": "^0.4.5",
     "grunt-svgicons2svgfont": "git+https://github.com/afalchi82/grunt-svgicons2svgfont.git",
-    "grunt-svg2ttf": "^1.0.0",
-    "grunt-ttf2eot": "^1.0.0",
+    "grunt-svg2ttf": "git+https://github.com/afalchi82/grunt-svg2ttf.git",
+    "grunt-ttf2eot": "git+https://github.com/afalchi82/grunt-ttf2eot.git",
     "grunt-ttf2woff": "^1.0.0"
   }
 }
