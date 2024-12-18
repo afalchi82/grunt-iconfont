@@ -21,6 +21,9 @@
     "url": "https://github.com/poppinlp/grunt-iconfont/issues"
   },
   "homepage": "https://github.com/poppinlp/grunt-iconfont",
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  },
   "dependencies": {
     "grunt": "^0.4.5",
     "grunt-svgicons2svgfont": "^1.0.0",
